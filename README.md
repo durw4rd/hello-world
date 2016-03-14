@@ -1,2 +1,2 @@
 # hello-world
-Just a being a good student
+Hey, planning to become a developer!
